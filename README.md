@@ -5,9 +5,9 @@
 <b>💡 @wolfohgiraffers</b>
 &nbsp;&nbsp;
 <a href="mailto:burningman0915@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=burningman0915@gmail.com"/></a>
-<a href="https://hammang.github.io/"><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhammang&count_bg=%23F08080&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
-<!--#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhammang&count_bg=%23F08080&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)-->
+<a href="https://wolfohgiraffers.github.io/"><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwolfohgiraffers&count_bg=%23F08080&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+<!--#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwolfohgiraffers&count_bg=%23F08080&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)-->
 </p>
 
 <p>
